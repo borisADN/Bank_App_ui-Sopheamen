@@ -5,7 +5,7 @@
 Demo
 
 <p align="center">
-  <img src="/preview/demo.gif" alt="Demo" width="350"/>
+  <img src="/preview/demo.gif" alt="Demo" width="350"  height ="200"/>
 </p>
 
 Our Work.
