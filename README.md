@@ -4,7 +4,9 @@
 
 Demo
 
-![Demo](/preview/demo.gif)
+<p align="center">
+  <img src="/preview/demo.gif" alt="Demo" width="350"/>
+</p>
 
 Our Work.
 
